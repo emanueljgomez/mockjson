@@ -1,7 +1,34 @@
 {
-"items":
-    { "id": 1, "name": "Gun 1", "type": "Pistol", "description": "Description 1", "price": "100" },
-    { "id": 2, "name": "Gun 2", "type": "Pistol", "description": "Description 2", "price": "100" },
-    { "id": 3, "name": "Gun 3", "type": "Pistol", "description": "Description 3", "price": "100" },
-    { "id": 4, "name": "Gun 4", "type": "Pistol", "description": "Description 4", "price": "100" },
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
 }
