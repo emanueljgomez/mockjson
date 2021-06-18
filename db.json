@@ -2,6 +2,7 @@
 "items": [
     {
       "id": 1,
+      "image": "X",
       "name": "Gun 1",
       "type": "Pistol",
       "description": "this is description 1",
@@ -9,6 +10,7 @@
     },
     {
       "id": 2,
+      "image": "X",
       "name": "Gun 2",
       "type": "Pistol",
       "description": "this is description 2",
@@ -16,6 +18,7 @@
     },
     {
       "id": 3,
+      "image": "X",
       "name": "Gun 3",
       "type": "Pistol",
       "description": "this is description 3",
@@ -23,6 +26,7 @@
     },
     {
       "id": 4,
+      "image": "X",
       "name": "Gun 4",
       "type": "Pistol",
       "description": "this is description 4",
