@@ -2,9 +2,9 @@
 "items": [
     {
       "id": 1,
-      "image": "X",
-      "name": "Gun 1",
-      "type": "Pistol",
+      "image": "https://i.imgur.com/PE7wmQf.png",
+      "name": "CARNAGE",
+      "type": "Shotgun",
       "description": "this is description 1",
       "price": 100
     },
