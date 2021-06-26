@@ -3,34 +3,74 @@
     {
       "id": 1,
       "image": "https://i.imgur.com/PE7wmQf.png",
-      "name": "CARNAGE",
+      "name": "Carnage",
       "type": "Shotgun",
-      "description": "this is description 1",
-      "price": 100
+      "manufacturer": "Budget Arms",
+      "description": "Blast a hole through spacetime!",
+      "price": 641
     },
     {
       "id": 2,
-      "image": "X",
-      "name": "Gun 2",
-      "type": "Pistol",
-      "description": "this is description 2",
-      "price": 100
+      "image": "https://i.imgur.com/aG8Ljul.png",
+      "name": "Mk. 31 HMG",
+      "type": "Heavy Machine Gun",
+      "manufacturer": "Militech",
+      "description": "Time for the artillery to roll in.",
+      "price": 5000
     },
     {
       "id": 3,
-      "image": "X",
-      "name": "Gun 3",
+      "image": "https://i.imgur.com/CdEAFZA.png",
+      "name": "JKE-X2 Kenshin",
       "type": "Pistol",
-      "description": "this is description 3",
-      "price": 100
+      "manufacturer": "Arasaka",
+      "description": "Elegance in lethality.",
+      "price": 425
     },
     {
       "id": 4,
-      "image": "X",
-      "name": "Gun 4",
-      "type": "Pistol",
-      "description": "this is description 4",
-      "price": 100
+      "image": "https://i.imgur.com/77HNPOm.png",
+      "name": "HJSH-18 Masamune",
+      "type": "Assault Rifle",
+      "manufacturer": "Arasaka",
+      "description": "Power reimagined.",
+      "price": 1500
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/2HBFTS9.png",
+      "name": "D5 Sidewinder",
+      "type": "Assault Rifle",
+      "manufacturer": "Nokota",
+      "description": "Smart rifle. Smart choice.",
+      "price": 1600
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/bPQlon8.png",
+      "name": "M251s Ajax",
+      "type": "Assault Rifle",
+      "manufacturer": "Militech",
+      "description": "Come rain or shine, it'll weather it out.",
+      "price": 900
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/ajPN50Y.png",
+      "name": "Overture",
+      "type": "Revolver",
+      "manufacturer": "Malorian Arms",
+      "description": "Packs one hell of a kick.",
+      "price": 342
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/kcWHiCk.png",
+      "name": "SPT32 Grad",
+      "type": "Sniper Rifle",
+      "manufacturer": "Techtronika",
+      "description": "From this weapon there is no cover.",
+      "price": 2500
     }
   ]
 }
